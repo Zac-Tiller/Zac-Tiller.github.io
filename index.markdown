@@ -3,7 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: 'Welcome'
 ---
+
 
 #### I'm Zac. I graduated from Cambridge University in July 2023 with a BEng & MEng in Information & Computer Engineering, focusing on **Machine Learning  & Data Science** modules. My Masters thesis researched non-Gaussian stochastic processes for financial & tracking applications, read more [here](./masters-thesis/).
 

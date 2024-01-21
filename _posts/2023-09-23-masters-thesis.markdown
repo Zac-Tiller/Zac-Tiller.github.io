@@ -9,7 +9,7 @@ permalink: '/masters-thesis/'
 ## "Non-Gaussian Stochastic Processes for Financial & Tracking Applications: Introducing Dynamic Skew Variance-Mean Mixture Processes"
 
 
-#### Lucky enough to be supervised by Prof. Simon Godsill, we applied Particle Filters to Levy process driven state space equations, to model time series. Specifically, we looked at financial time series as often these display non-Gaussian statistical properties. Using Levy processes as the driving stochastic noise meant we could capture observed statistical propertiesin the data, such as skew and kurtosis, something not possible with using Guassian noise.
+#### Lucky enough to be supervised by Prof. Simon Godsill, we applied Particle Filters to Levy process driven state space equations, to model time series. Specifically, we looked at financial time series as often these display non-Gaussian statistical properties. Using Levy processes as the driving stochastic noise meant we could capture observed statistical properties in the data, such as skew and kurtosis, something not possible with using Guassian noise.
 
 #### Stepping away from a Gaussian driven process made closed-form inference intractable, so an advanced statistical signal processing technique was required; sequential Monte Carlo methods, or Particle Filters.
 

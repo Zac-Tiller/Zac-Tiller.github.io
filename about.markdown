@@ -15,12 +15,12 @@ Startups <span style="font-size: 20px; font-weight: bold;">&middot;</span> Techn
 </div>
 
 **Tech Stack:** Expanding, but includes: Python <span style="font-size: 20px; font-weight: bold;">&middot;
-<div style="margin-left: 94px; margin-top: -17px; margin-bottom: 6px">
-   Basic HTML & CSS <span style="font-size: 20px; font-weight: bold;">&middot;</span> Beginner-Intermediate JavaScript <span style="font-size: 20px; font-weight: bold;">&middot;</span> React <span style="font-size: 20px; font-weight: bold;">&middot;</span>  React Native <span style="font-size: 20px; font-weight: bold;">&middot;</span>  
+<div style="margin-left: 94px; margin-top: -17px; margin-bottom: 6px"> R
+   <span style="font-size: 20px; font-weight: bold;">&middot;</span> Basic HTML & CSS <span style="font-size: 20px; font-weight: bold;">&middot;</span> Beginner-Intermediate JavaScript <span style="font-size: 20px; font-weight: bold;">&middot;</span> React <span style="font-size: 20px; font-weight: bold;">&middot;</span>  React Native <span style="font-size: 20px; font-weight: bold;">&middot;</span>  
 </div>
 ---
 <div style="margin-top: 10px;">
-I enjoy working on projects and challenges at the intersection of Sports, Statistical Modelling & Data Science. I have also recently started learning Web and App Development, working on Apps which are planned to release later this year. With more time spent learning, I am confident in becoming a Full Stack Data Scientist!
+I enjoy using Data Science, Statistics & Programming for real-world applications & problem solving - such as on areas in sports & finance in the past. I have also recently started learning Web and App Development, working on Apps which are planned to release later this year. With more time spent learning, I am confident in becoming a Full Stack Data Scientist!
 </div>
 
 <div style="margin-top: 10px; margin-bottom: 10px;">

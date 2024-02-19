@@ -33,4 +33,5 @@ My interests in Tech & Machine Learning guided my final year module choices to i
 - Software Engineering & Design Methodologies
 - Probabilistic Machine Learning
 - Statistical Signal Analysis
+- Business Modules by the JBS
 
